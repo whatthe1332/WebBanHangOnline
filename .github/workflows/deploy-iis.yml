@@ -1,4 +1,4 @@
-name: .NET Cỏe Deploy to IIS
+name: .NET Core Deploy to IIS
 
 on:
   workflow_dispatch:
